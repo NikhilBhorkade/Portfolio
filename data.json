@@ -1,0 +1,118 @@
+{
+  "personal": {
+    "name": "Nikhil Bhorkade",
+    "title": "Robotics & Automation Engineer",
+    "description": "Passionate about developing intelligent robots that integrate navigation, perception, and automation for real-world applications.",
+    "email": "nikhilbhorkade1234@gmail.com",
+    "phone": "8010393168",
+    "location": "Pune, India",
+    "profileImage": "",
+    "about": "Robotics & Automation Engineering student with hands-on expertise in ROS2, SLAM, and autonomous navigation systems. Skilled in Python, C++, and OpenCV for robotic perception and control, with project experience in path planning, sensor fusion, and real-time systems. Passionate about developing intelligent robots that integrate navigation, perception, and automation for real-world applications.",
+    "roboticsFeatures": [
+      {
+        "name": "Autonomous Navigation",
+        "icon": "fas fa-route",
+        "description": "SLAM & Path Planning"
+      },
+      {
+        "name": "Computer Vision",
+        "icon": "fas fa-eye",
+        "description": "OpenCV & Perception"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Robotics & Simulation",
+      "icon": "fas fa-robot",
+      "description": "ROS2, SLAM & Navigation, Gazebo simulation, Rviz visualization for autonomous systems."
+    },
+    {
+      "name": "Programming & AI",
+      "icon": "fas fa-code",
+      "description": "Python, C++, OpenCV, Machine Learning, MATLAB for robotic perception and control."
+    },
+    {
+      "name": "Design & CAD",
+      "icon": "fas fa-drafting-compass",
+      "description": "Fusion 360, SolidWorks, RoboAnalyzer for mechanical design and robot modeling."
+    },
+    {
+      "name": "Hardware & Integration",
+      "icon": "fas fa-microchip",
+      "description": "Embedded Systems, Control Systems, Sensor Integration, Hardware Prototyping, Pneumatics."
+    }
+  ],
+  "projects": [
+    {
+      "title": "DuoSanBot: Intelligent Dual-Mode Sanitization Robot",
+      "description": "Designed and simulated a mobile robot in Fusion 360 & Gazebo with ROS2-based obstacle avoidance (95% success) and integrated ultrasonic sensors & sanitization for autonomous operation.",
+      "image": "fas fa-robot",
+      "technologies": ["ROS2", "Gazebo", "Fusion 360", "Python", "Ultrasonic Sensors"],
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": true
+    },
+    {
+      "title": "Autonomous Mobile Robot Navigation",
+      "description": "Developed ROS2 nodes for differential drive navigation with autonomous path-following (20% error reduction) and validated localization across 10+ indoor environments.",
+      "image": "fas fa-route",
+      "technologies": ["ROS2", "SLAM", "Navigation2", "Python", "C++"],
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": true
+    },
+    {
+      "title": "Smart Vacuum Cleaner Robot",
+      "description": "Engineered an IR-based obstacle detection system with autonomous cleaning algorithms (26% faster) and validated robustness across 10+ indoor environments.",
+      "image": "fas fa-broom",
+      "technologies": ["Arduino", "IR Sensors", "C++", "Autonomous Algorithms"],
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": true
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/NikhilBhorkade",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nikhilbhorkade",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:nikhilbhorkade1234@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "ROS2 Framework",
+      "issuer": "Robotry",
+      "description": "Advanced robotics framework for autonomous systems development",
+      "pdfUrl": "certificates/ros2-certificate.pdf.pdf",
+      "icon": "fas fa-robot",
+      "skills": ["ROS2", "Robotics", "SLAM", "Navigation"]
+    },
+    {
+      "title": "Python Programming",
+      "issuer": "Deutsche Bank CSR & Rubicon Foundation",
+      "description": "Comprehensive Python programming and software development",
+      "pdfUrl": "certificates/python-certificate.pdf.pdf",
+      "icon": "fab fa-python",
+      "skills": ["Python", "Programming", "Software Development"]
+    },
+    {
+      "title": "Pneumatic Controls",
+      "issuer": "SMC Training Center, Pune",
+      "description": "Industrial automation and pneumatic control systems",
+      "pdfUrl": "certificates/pneumatic-certificate.pdf.pdf",
+      "icon": "fas fa-cogs",
+      "skills": ["Pneumatics", "Automation", "Control Systems"]
+    }
+  ]
+}
